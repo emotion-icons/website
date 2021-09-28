@@ -11,7 +11,7 @@ specifiers:
   '@types/react-virtualized': ^9.21.11
   '@types/styled-components': ^5.1.13
   copy-to-clipboard: ^3.3.1
-  emotion-icons: 3.23.0
+  emotion-icons: 3.24.0
   history: ^5.0.0
   js-search: ^2.0.0
   next: ^11.0.0
@@ -29,7 +29,7 @@ dependencies:
   '@emotion/styled': 11.3.0_4a13a1c8be6e32a351380640be5b202d
   '@loadable/component': 5.15.0_react@17.0.2
   copy-to-clipboard: 3.3.1
-  emotion-icons: 3.23.0_2305e84770652125202aaa4817ae97a9
+  emotion-icons: 3.24.0_2305e84770652125202aaa4817ae97a9
   history: 5.0.1
   js-search: 2.0.0
   next: 11.1.1_01b6e46c81e6fda6a6d233df547d9171
@@ -527,8 +527,8 @@ packages:
       react: 17.0.2
     dev: false
 
-  /@emotion-icons/octicons/3.20.0_2305e84770652125202aaa4817ae97a9:
-    resolution: {integrity: sha512-8kLWfJA7OB5Ciy6JGiJEPv4hCSdpRzZpbVRjYr7ZBSyTwYANjT+DLVcErAzV4192pVj8mCQP/3MzDLK7k0NdxA==}
+  /@emotion-icons/octicons/3.24.0_2305e84770652125202aaa4817ae97a9:
+    resolution: {integrity: sha512-YxZFG04ggmH0IF4hVrq7jTJoE6EoEjUUvypWiJAyjng1nmrOakKkE2YW5375xwppqs7JbK9//72x7S8nXCpgnA==}
     peerDependencies:
       '@emotion/react': '>=11.0.0 <12'
       '@emotion/styled': '>=11.0.0 <12'
@@ -583,8 +583,8 @@ packages:
       react: 17.0.2
     dev: false
 
-  /@emotion-icons/simple-icons/3.23.0_2305e84770652125202aaa4817ae97a9:
-    resolution: {integrity: sha512-ce6WUWGVUkXvth2eL0NOLRv9e+GkMMzll2Y3q34fXao05zIcNBMhmOtG4QzRhwsxZLMz+UXObBMYRtI1GiERow==}
+  /@emotion-icons/simple-icons/3.24.0_2305e84770652125202aaa4817ae97a9:
+    resolution: {integrity: sha512-D67reMNF4Wt/nXcOVAxd2n7ilw8TAeOI+/wLRjJ+E7xgdI0mGRePxH8dauaA8SZwAeBgFDOjUWoMqa/0aWHgDw==}
     peerDependencies:
       '@emotion/react': '>=11.0.0 <12'
       '@emotion/styled': '>=11.0.0 <12'
@@ -1399,8 +1399,8 @@ packages:
     engines: {node: '>= 0.10'}
     dev: false
 
-  /emotion-icons/3.23.0_2305e84770652125202aaa4817ae97a9:
-    resolution: {integrity: sha512-R4/UUcx8im+eckyrRgqrhaZEW95lHihnU7n0j/nswCoHqVNr0GwvyQRNXJvwO4QPteXSDXh0zFPYQ59VOjNfyA==}
+  /emotion-icons/3.24.0_2305e84770652125202aaa4817ae97a9:
+    resolution: {integrity: sha512-dhINb7LmHPhGzQuAbE2sMlNyrj8LShNz+XeNa/w/pQ9akY1icekc5BQTMTZKYoEnzwFR6wtBNkVIzGBW1D12Mg==}
     peerDependencies:
       '@emotion/react': '>=11.0.0 <12'
       '@emotion/styled': '>=11.0.0 <12'
@@ -1436,11 +1436,11 @@ packages:
       '@emotion-icons/material-rounded': 3.14.0_2305e84770652125202aaa4817ae97a9
       '@emotion-icons/material-sharp': 3.14.0_2305e84770652125202aaa4817ae97a9
       '@emotion-icons/material-twotone': 3.14.0_2305e84770652125202aaa4817ae97a9
-      '@emotion-icons/octicons': 3.20.0_2305e84770652125202aaa4817ae97a9
+      '@emotion-icons/octicons': 3.24.0_2305e84770652125202aaa4817ae97a9
       '@emotion-icons/open-iconic': 3.14.0_2305e84770652125202aaa4817ae97a9
       '@emotion-icons/remix-fill': 3.14.0_2305e84770652125202aaa4817ae97a9
       '@emotion-icons/remix-line': 3.14.0_2305e84770652125202aaa4817ae97a9
-      '@emotion-icons/simple-icons': 3.23.0_2305e84770652125202aaa4817ae97a9
+      '@emotion-icons/simple-icons': 3.24.0_2305e84770652125202aaa4817ae97a9
       '@emotion-icons/typicons': 3.14.0_2305e84770652125202aaa4817ae97a9
       '@emotion-icons/zondicons': 3.14.0_2305e84770652125202aaa4817ae97a9
       '@emotion/react': 11.4.1_4cd822c6044f4c1a7e1f1fea0e728f12
